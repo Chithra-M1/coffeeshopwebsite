@@ -1,0 +1,125 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: "Playwrite HR Lijeva", cursive;
+}
+header{
+    width:100%
+    height:50px;
+    background-color:rgb(95, 12, 12);
+}
+header,h1{
+    font-family: "Playwrite HR Lijeva", cursive;
+    text-align:center;
+    padding:15px;
+
+
+}
+h2,h3{
+    text-align: center;
+}
+div{
+    width:600px;
+    height:250px;
+}
+body{
+    background-color: rgb(208, 140, 140);
+}
+.img1{
+    width: 200px;
+    height: 200px;
+}
+.img2{
+    width: 200px;
+    height: 200px; 
+}
+.img3{
+    width: 200px;
+    height: 200px;
+}
+.img4{
+    width: 200px;
+    height: 200px;
+}
+.row{
+    width: 100%;
+    height: 500px;
+    background-color:  rgb(95, 12, 12);
+    display: flex;
+    justify-content:space-evenly ;
+    /* start,end, center,space-around,space-between*/
+    align-items: center;
+}
+.col{
+    width: 300px;
+    height: 350px;
+    background-color: rgb(95, 12, 12);
+    margin: 10px;.
+}
+.col1{
+    background-image: url("https://cdn.pixabay.com/photo/2013/08/11/19/46/coffee-171653_1280.jpg");
+    background-size: cover;
+    width:300px ;
+    height: 350px;
+}
+.col2{
+    background-image: url("https://cdn.pixabay.com/photo/2017/09/04/18/39/coffee-2714970_960_720.jpg");
+    background-size: cover;
+    width:300px ;
+    height: 350px;
+}
+.col3{
+    background-image: url("https://cdn.pixabay.com/photo/2019/11/11/15/32/coffee-4618705_960_720.jpg");
+    background-size: cover;
+    width:300px ;
+    height: 350px;
+}
+.col4{
+        background-image: url("https://cdn.pixabay.com/photo/2017/04/25/08/02/coffee-beans-2258839_960_720.jpg");
+        background-size: cover;
+        width:300px ;
+        height: 350px;
+    }
+
+ .col5{
+    background-image: url("https://cdn.pixabay.com/photo/2016/11/29/04/31/caffeine-1867326_960_720.jpg");
+    background-size: cover;
+    width:300px ;
+    height: 350px;
+}
+.col6{
+    background-image: url("https://cdn.pixabay.com/photo/2016/11/29/12/45/beverage-1869598_960_720.jpg");
+    background-size: cover;
+    width:300px ;
+    height: 350px;
+}
+.col7{
+    background-image: url("https://cdn.pixabay.com/photo/2019/12/02/11/23/drink-4667507_1280.jpg");
+    background-size: cover;
+    width:300px ;
+    height: 350px;
+}
+.col8{
+    background-image: url("https://cdn.pixabay.com/photo/2021/12/07/23/09/cup-6854258_960_720.jpg");
+    background-size: cover;
+    width:300px ;
+    height: 350px;
+}
+
+.para{
+    margin: 20px;
+    padding: 20px;
+}
+.type{
+    margin: 5px;
+}
+.brands{
+    margin: 20px;
+    padding:20px;
+}
+.footer{
+    width: 100%;
+    height: 150px;
+    background-color:rgb(95, 12, 12) ;
+}
+    
